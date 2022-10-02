@@ -1,9 +1,11 @@
 #+title: Laboratorio de robótica
 
-* Integrantes
+** Integrantes
 - Irene Guijarro Molina
 - Izan Amador Bustos
 - Jorge Benavides Macías
 
-* Sobre el proyecto
+** Sobre el proyecto
 [[file:fotos/banner_PIERO_DIY.png]]
+
+Piero es un proyecto educativo en el que los estudiantes tienen la responsabilidad de diseñar y construir un robot autónomo modular. El proyecto utiliza materiales y métodos que permiten a los alumnos alcanzar una formación profunda para aplicaciones prácticas en el mundo laboral, académico y de desarrollo comercial.
