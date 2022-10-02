@@ -1,0 +1,9 @@
+#+title: Laboratorio de robótica
+
+* Integrantes
+- Irene Guijarro Molina
+- Izan Amador Bustos
+- Jorge Benavides Macías
+
+* Sobre el proyecto
+[[file:fotos/banner_PIERO_DIY.png]]
